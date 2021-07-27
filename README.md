@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Douglas-00
-- 👀 I’m interested in javascript,RPA automate
+- 👋  #Hi, I’m @Douglas-00#
+- 👀 I’m interested in javascript,RPA,Front-end,Back-end
 - 🌱 I’m currently learning REACT-JS 
 
 
