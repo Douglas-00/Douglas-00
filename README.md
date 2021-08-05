@@ -2,7 +2,7 @@
  👀 I’m interested in javascript,RPA,Front-end,Back-end
  🌱 I’m currently learning REACT-JS -->
 # 👋 Hello 
-## My name is Douglas Alves, Welcome to my open source world to exchange knowledge.
+## My name is:adult: Douglas Alves, Welcome to my open source world to exchange knowledge.
 
 <!---
 Douglas-00/Douglas-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,11 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-00&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-00)](https://github.com/Douglas-00/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-00&layout=compact)](https://github.com/Douglas-00/github-readme-stats)
 
 
 
