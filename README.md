@@ -9,6 +9,14 @@ Douglas-00/Douglas-00 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ### Redes Sociais:
-<a href="https://www.linkedin.com/in/douglas-alves-b3b901179/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40 margin=10></a>
+<a href="https://www.linkedin.com/in/douglas-alves-b3b901179/">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40 margin=10>
+</a>
 
-
+### Habilidades:
+<div style="display:inline">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 margin=10>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 margin=10>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 margin=10>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 margin=10>
+</div>
