@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Douglas-00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-00&layout=compact)](https://github.com/Douglas-00/github-readme-stats)
 
 
 
