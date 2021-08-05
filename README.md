@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=40 margin=10>
 </div>
 
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-00&layout=compact)](https://github.com/Douglas-00/github-readme-stats)
 
