@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40 margin=10>
 </a>
 
+<br>
 <div style="display:inline">
   <a href="https://github.com/Douglas-00">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Douglas-00&show_icons=true&theme=jolly&include_all_commits=true&count_private=true">
@@ -27,7 +28,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 margin=10>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 margin=10>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width=40 margin=10>
- 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 margin=10>
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40 margin=10>
