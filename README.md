@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Redes Sociais:
 <a href="https://www.linkedin.com/in/douglas-alves-b3b901179/">
+ <br><br><br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40 margin=10>
 </a>
 
