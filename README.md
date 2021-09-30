@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div style="display:inline">
   <a href="https://github.com/Douglas-00">
-  <img height="180em"   align="right" src="https://github-readme-stats.vercel.app/api?username=Douglas-00&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+  <img height="180em"   align="left" src="https://github-readme-stats.vercel.app/api?username=Douglas-00&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
   <img height="180em"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-00&&layout=compact&hide=shell&theme=merko">
 
  
