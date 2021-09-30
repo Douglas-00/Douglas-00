@@ -21,12 +21,12 @@ You can click the Preview link to take a look at your changes.
 
  
 </div>
- <br><br><br> <br><br><br> <br><br><br>
+ <br><br><br> 
 
 
 
 # Habilidades:
-<div style="display:inline">
+<div style="display:inline" align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 margin=10>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 margin=10>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width=40 margin=10>
