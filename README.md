@@ -8,14 +8,15 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Redes Sociais:
 <a href="https://www.linkedin.com/in/douglas-alves-b3b901179/">
- <br><br><br>
+ 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40 margin=10>
 </a>
+<br><br><br>
 
 <br>
 <div style="display:inline">
   <a href="https://github.com/Douglas-00">
-  <img height="180em"   align="right" src="https://github-readme-stats.vercel.app/api?username=Douglas-00&show_icons=true&theme=jolly&include_all_commits=true&count_private=true">
+  <img height="180em"   align="right" src="https://github-readme-stats.vercel.app/api?username=Douglas-00&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-00&&layout=compact&hide=shell&theme=merko">
 
  
