@@ -25,8 +25,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# Habilidades:
+
 <div style="display:inline" align="left">
+ # Habilidades:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 margin=10>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 margin=10>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width=40 margin=10>
