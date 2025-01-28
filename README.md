@@ -10,7 +10,6 @@
 
 ### 📊 **Estatísticas do GitHub**
 <div align="center">
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Douglas-00&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-00&layout=compact&hide=shell&theme=merko">
 </div>
 
