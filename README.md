@@ -10,17 +10,10 @@
 
 ### 📊 **Estatísticas do GitHub**
 <div align="center">
-  <!-- Estatísticas gerais -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Douglas-00&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
 
   <!-- Linguagens mais usadas -->
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-00&layout=compact&theme=merko">
 
-  <!-- Streak (sequência de contribuições) -->
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Douglas-00&theme=merko">
-
-  <!-- Atividade gráfica -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Douglas-00&theme=merko&hide_border=true&area=true" alt="Activity Graph">
 </div>
 
 ---
@@ -59,8 +52,3 @@
 
 </div>
 
----
-
-### 🚀 **Contador de Visitas**
-<div align="center">
-  <img src="https://kom
