@@ -10,17 +10,28 @@
 
 ### 📊 **Estatísticas do GitHub**
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-00&layout=compact&hide=shell&theme=merko">
+  <!-- Estatísticas gerais -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Douglas-00&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+
+  <!-- Linguagens mais usadas -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-00&layout=compact&theme=merko">
+
+  <!-- Streak (sequência de contribuições) -->
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Douglas-00&theme=merko">
+
+  <!-- Atividade gráfica -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Douglas-00&theme=merko&hide_border=true&area=true" alt="Activity Graph">
 </div>
 
 ---
 
-# 🛠 **Habilidades:**
+### 🛠 **Habilidades:**
 <div align="center">
 
 ### ⚙️ **Backend**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
@@ -44,6 +55,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50"> <!-- CI/CD -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50">
 
 </div>
+
+---
+
+### 🚀 **Contador de Visitas**
+<div align="center">
+  <img src="https://kom
